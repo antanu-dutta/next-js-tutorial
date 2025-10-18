@@ -18,6 +18,12 @@ export default function Navigation() {
           <li>
             <Link href="/service">Serivce</Link>
           </li>
+          <li>
+            <Link href="/clientComp">ClientComp</Link>
+          </li>{" "}
+          <li>
+            <Link href="/serverComp">ServerComp</Link>
+          </li>
         </ul>
       </nav>
     </header>
